@@ -1,0 +1,86 @@
+body{
+    margin: 0px;
+}
+
+ul{
+    list-style-type: none;
+    display: inline-block;
+    float: right;
+    padding-right: 40px; 
+}
+
+li {
+    display: inline-block;
+    color: white;
+    padding-right: 30px;
+}
+
+h1 {
+    margin: 0px;
+    padding-top: 150px;
+    font-size: 72px;
+}
+
+#nav-bar{
+    background-color: gray;
+    
+}
+
+.company-name {
+    display: inline-block;
+    color: white;
+    padding: 10px 50px;
+    font-size:28px;
+    margin:0px;
+}
+
+.main-title {
+    height: 400px;
+    background-color: black;
+    color: rgb(206, 206, 88);
+    text-align: center;
+}
+
+.blu-box{
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    display: inline-block;
+    margin: 40px;
+    padding: 120px;
+    border-radius: 25px;
+}
+
+.oj-box {
+    background-color: orange;
+    width: 385px;
+    height: 120px;
+    margin: 0px 40px;
+    padding: 120px;
+    display: inline-block;
+}
+
+.info{
+    width: 420px;
+    margin: 0px 80px;
+    padding: 60px 100px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+img{
+    width:420px;
+    height:auto;
+    display: inline-block;
+    
+    padding: 60px 100px;
+}
+
+.puppy-pic{
+    display: inline-block;
+}
+
+.bottom-bar{
+    background-color: rgb(55, 55, 59);
+    height:140px;
+}
